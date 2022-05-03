@@ -1,0 +1,5 @@
+{
+    "phoneNum": "{{ticket.contact.mobile}}",
+    "ticket_status": "{{ticket.status}}",
+    "ticket_number": "{{ticket.id}}"
+}
